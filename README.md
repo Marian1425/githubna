@@ -18,7 +18,7 @@
     <main>
 
         <header>
-            <img src="Imagenes/Nana_anime_logo.svg.png" alt="Nana - Logo" width="500">
+            <img src="Imagenes/Nana_anime_logo.svg.png" alt="Nana - Logo" width="400">
         </header>
         <nav>
             <a href="#osa"> Nana Osaki</a>
